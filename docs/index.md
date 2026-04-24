@@ -62,7 +62,7 @@ Custom operating systems are alternative system software installations, like And
 
 This guide will give you the opportunity to set aside space on your microSD card to install these custom OSes onto your console, if you desire. It is important to note that these installations are optional; you do not need to install any custom OS in order to complete this guide and install Atmosphère. However, it is recommended to decide before starting the guide, as the installation process involves formatting your microSD card.
 
-## What does this guide install?
+## What does this guide install
 
 This guide has the end-goal of taking a completely unmodified Switch from stock firmware to a custom firmware named Atmosphère. Upon completion, you should not lose any data. Your games, Nintendo Account, save data, etc. will be preserved. The functionality of your console will be enhanced, and you will be able to accomplish tasks like the below (and more)!
 
@@ -76,7 +76,7 @@ More information about the fusee-gelee vulnerability can be found in its vulnera
 * Running game modifications on games that you own.
 * Backup, edit, and restore saves for many games.
 * Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-* Safely update to the latest system version without fear of losing access to homebrew.
+* Safely update to the latest system version without fear of permentantly losing access to CFW.
 * Safely customize your device while retaining full access to Nintendo Switch Online services.
 
 More things to do with a CFW-installed Switch can be found later on in the guide.
