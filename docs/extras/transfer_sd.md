@@ -10,7 +10,17 @@ We will be using [hekate](https://github.com/CTCaer/hekate/releases/) to both ba
 
 ::: warning
 
-If you follow the steps on this guide and find that you are suddenly unable to open your homebrew or games due to "corrupted data", you likely need to unset archive bits on your SD card. Instructions for this process can be found on the [FAQ page](../faq.md#my-homebrew-apps-are-not-showing-up-in-the-homebrew-menu).
+If you follow the steps on this guide and find that you are suddenly unable to open your homebrew or games due to "corrupted data", you likely need to unset archive bits on your SD card:
+
+1. Enter RCM and Inject the hekate payload.
+    * If you use a modchipped Switch, you can simply just turn your Switch on with the hekate payload renamed to `payload.bin` on the root of your microSD card.
+1. Press `Tools` on the top menu bar.
+1. In the bottom right corner, press `Arch Bit • AutoRCM • Touch • Pkg1/2`.
+1. Press `Fix Archive bit` - this might take a while.
+1. Press `Close` in the top right corner.
+1. Press `Home` in the top menu bar to get back from where you started.
+1. Follow the instructions at the [Launching CFW](user_guide/all/launching_cfw) page to launch Atmosphère.
+
 
 :::
 

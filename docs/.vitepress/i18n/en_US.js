@@ -3,7 +3,7 @@ import { en_US as localeData } from './strings'
 const sidebar_common = {
 	text: localeData.other,
 	items: [
-		{ text: localeData.pages["faq"], link: `/faq` },
+		// { text: localeData.pages["faq"], link: `/faq` },
 		{ text: localeData.pages["about"], link: `/about` }
 	]
 }
@@ -20,7 +20,7 @@ const themeConfig = {
 		{ text: localeData.guide, link: `/user_guide/getting_started` },
 		{ text: localeData.pages["homebrew"], link: `/homebrew/` },
 		{ text: localeData.pages["extras"], link: `/extras/` },
-		{ text: localeData.pages["faq"], link: `/faq` },
+		// { text: localeData.pages["faq"], link: `/faq` },
 		{ text: localeData.pages["about"], link: `/about` }
 	],
 	sidebar: {
